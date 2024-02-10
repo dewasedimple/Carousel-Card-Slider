@@ -1,0 +1,28 @@
+.mycard {
+  min-width: 300px;
+  max-width: 300px;
+  height: 400px;
+  background-color: #00FFFF;
+  margin: 10px;
+  color:black;
+}
+
+.mycard img {
+  width: 100%; /* Set width to 80px */
+  height: auto; /* Set height to 100px */
+  border-radius: 5px;
+}
+
+.card-content {
+  padding-top: 10px;
+}
+
+.card-title {
+  font-size: 18px; /* Adjust font size as needed */
+  margin-bottom: 5px;
+}
+
+.card-description {
+  font-size: 14px; /* Adjust font size as needed */
+  line-height: 1.4; /* Adjust line height as needed */
+}
